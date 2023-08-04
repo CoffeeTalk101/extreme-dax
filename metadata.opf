@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">97921f3c-6cf8-4037-8d74-38b40bcec7b8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">97921f3c-6cf8-4037-8d74-38b40bcec7b8</dc:identifier>
+        <dc:title>Extreme DAX (for pre sume)</dc:title>
+        <dc:creator opf:file-as="Michiel Rozema, Henk Vlootman" opf:role="aut">Michiel Rozema, Henk Vlootman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-07T15:05:05+00:00</dc:date>
+        <dc:description>This book covers the need for good business modeling design and how you can achieve it through DAX. It helps analysts get the most out of Microsoft BI tools such as Power BI using DAX, ensuring that they get the most effective results from running their analyses.</dc:description>
+        <dc:publisher>Packt</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
